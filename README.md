@@ -1,4 +1,4 @@
-### CIS 410 (Intro to Scientific Visualization)
+## CIS 410 - Intro to Scientific Visualization
 ### Project 1 (Winter 2018)
 
 Author: Jacob Brown for Winter 2018
